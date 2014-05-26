@@ -1,0 +1,13 @@
+{
+  "name": "gulp-compass-wordpress-seed",
+  "version": "0.0.1",
+  "authors": [
+    "0restes <lukehollis@gmail.com>"
+  ],
+  "description": "A starter seed for a WordPress theme with Gulp and Compass",
+  "license": "MIT",
+  "homepage": "http://github.com/0restes/gulp-compass-wordpress-seed",
+  "private": true,
+  "devDependencies": {
+  }
+}
