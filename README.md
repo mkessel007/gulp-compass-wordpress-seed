@@ -10,7 +10,5 @@ To use this theme, clone it into your /wp-content/themes directory, then install
 * npm install gulp --save-dev
 
 
-... and you're ready to develop for wordpress with Gulp and Compass.  
 
-
-The default "gulp" command should cover everythig for development, but feel free to extend and fork with your own.
+The default "gulp" command should cover everything for development, but feel free to extend and fork with your own.
